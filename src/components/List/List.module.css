@@ -1,0 +1,14 @@
+.ListContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.BtnContainer {
+    margin-left: 10px;
+}
+
+.itemDone { 
+  color: rgb(0, 128, 32);
+    font-weight: 900;
+}
+
